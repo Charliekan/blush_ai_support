@@ -1,0 +1,3 @@
+[console_scripts]
+ai_blush = ai_blush.__main__:main
+
